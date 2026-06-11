@@ -5,7 +5,7 @@ This program takes a fasta file listing all sequence haplotypes of all individua
 (1) migrate-n, (2) Arlequin, (3) DIYabc, (4) LFMM, (5) Phylip, (6) G-Phocs, or (7) Treemix
 (8) Additionally, the data can be coded as unique sequence integers (haplotypes) in Structure, Genepop, SamBada, Bayescan, Arlequin, GenAlEx format, or summarized as allele frequencies by population.
 
-##Program modified by N. Whelan.
+## Program modified by N. Whelan.
 The main script was modified to be compatible with python3. Tested with python3.11
 
 Tested use is converting STACKS output to migrate format.
