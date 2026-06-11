@@ -21,32 +21,32 @@ The popmap for fasta2genotype must have three columns, with a header. It should 
 
 The SampleID must match the sample ID in the populations.samples.fa header. Individuals are given numbers in order that they appear in the 
 popmap used for the STACKS module populations.
-
-SampleID	IndividualID	PopulationID
-1	Lvir-pop_041	Sequatchie_Teague
-2	Lvir-pop_042	Sequatchie_Teague
-3	Lvir-pop_043	Sequatchie_Teague
-4	Lvir-pop_044	Sequatchie_Teague
-5	Lvir-pop_045	Sequatchie_Teague
-6	Lvir-pop_046	Sequatchie_Teague
-7	Lvir-pop_047	Sequatchie_Teague
-8	Lvir-pop_048	Sequatchie_Teague
-9	Lvir-pop_049	Sequatchie_Teague
-10	Lvir-pop_050	Sequatchie_Teague
-11	Lvir-pop_051	Sequatchie_Teague
-12	Lvir-pop_052	Sequatchie_Teague
-13	Lvir-pop_053	Sequatchie_Teague
-14	Lvir-pop_054	Sequatchie_Teague
-15	Lvir-pop_055	Sequatchie_Teague
-16	Lvir-pop_056	Sequatchie_Teague
-17	Lvir-pop_057	Sequatchie_Teague
-18	Lvir-pop_058	Sequatchie_Teague
-19	Lvir-pop_059	Sequatchie_Teague
-20	Lvir-pop_060	Sequatchie_Teague
-21	Lvir-pop_118	Sequatchie_OldYork
-22	Lvir-pop_119	Sequatchie_OldYork
-23	Lvir-pop_120	Sequatchie_OldYork
-24	Lvir-pop_121	Sequatchie_OldYork
+| SampleID | IndividualID | PopulationID |
+|----------|--------------|--------------|
+| 1 | Lvir-pop_041 | Sequatchie_Teague |
+| 2 | Lvir-pop_042 | Sequatchie_Teague |
+| 3 | Lvir-pop_043 | Sequatchie_Teague |
+| 4 | Lvir-pop_044 | Sequatchie_Teague |
+| 5 | Lvir-pop_045 | Sequatchie_Teague |
+| 6 | Lvir-pop_046 | Sequatchie_Teague |
+| 7 | Lvir-pop_047 | Sequatchie_Teague |
+| 8 | Lvir-pop_048 | Sequatchie_Teague |
+| 9 | Lvir-pop_049 | Sequatchie_Teague |
+| 10 | Lvir-pop_050 | Sequatchie_Teague |
+| 11 | Lvir-pop_051 | Sequatchie_Teague |
+| 12 | Lvir-pop_052 | Sequatchie_Teague |
+| 13 | Lvir-pop_053 | Sequatchie_Teague |
+| 14 | Lvir-pop_054 | Sequatchie_Teague |
+| 15 | Lvir-pop_055 | Sequatchie_Teague |
+| 16 | Lvir-pop_056 | Sequatchie_Teague |
+| 17 | Lvir-pop_057 | Sequatchie_Teague |
+| 18 | Lvir-pop_058 | Sequatchie_Teague |
+| 19 | Lvir-pop_059 | Sequatchie_Teague |
+| 20 | Lvir-pop_060 | Sequatchie_Teague |
+| 21 | Lvir-pop_118 | Sequatchie_OldYork |
+| 22 | Lvir-pop_119 | Sequatchie_OldYork |
+| 23 | Lvir-pop_120 | Sequatchie_OldYork |
+| 24 | Lvir-pop_121 | Sequatchie_OldYork |
 
 
 
